@@ -1,16 +1,78 @@
-## Hi there 👋
+Hi, I'm Bassey Prince Emekan 👋
 
-<!--
-**bassprizzy/Bassprizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Cloud Engineer
 
-Here are some ideas to get you started:
+I'm a Mechanical Engineering graduate transitioning into Cloud and DevOps engineering, with hands-on experience building and automating infrastructure, deploying applications, and working with Linux-based environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning manual infrastructure and deployment processes into repeatable, automated workflows.
+
+🛠️ Technologies & Tools
+
+Cloud
+
+- AWS
+- EC2
+- VPC
+- S3
+- RDS
+
+DevOps & Infrastructure
+
+- Terraform
+- Docker
+- Kubernetes
+- Ansible
+- CI/CD
+- GitHub Actions
+
+Operating Systems & Scripting
+
+- Linux
+- Bash
+- Python
+
+Version Control
+
+- Git
+- GitHub
+
+
+🚀 Featured Projects
+
+☁️ AWS Infrastructure with Terraform
+
+Infrastructure-as-Code project using Terraform to provision and manage AWS resources, including networking, compute, databases and security components.
+
+⚙️ CI/CD Pipeline
+
+Hands-on CI/CD project demonstrating automated build and deployment workflows using GitHub Actions.
+
+🐳 Docker Projects
+
+Containerized applications and services using Docker, including container networking, images and deployment workflows.
+
+🐧 Linux Server Infrastructure
+
+Hands-on Linux server administration involving web services, DNS, mail services and system configuration.
+
+📚 Currently Developing
+
+- Kubernetes
+- Ansible
+- Advanced CI/CD
+- AWS Cloud Infrastructure
+- Infrastructure as Code
+- Cloud-native deployment
+
+🎯 Career Goal
+
+I'm currently seeking a paid DevOps, Cloud, Infrastructure, Platform or SRE internship/graduate opportunity where I can contribute to real-world projects, learn from experienced engineers and continue developing my cloud infrastructure and automation skills.
+
+📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/prince-emekan-520051210
+- 🐙 GitHub: https://github.com/bassprizzy
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey into Cloud and DevOps engineering.
